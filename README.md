@@ -1,4 +1,4 @@
-# crypto-ticker-discord-bot
+# crypto-ticker-discord-bot - MEDACOIN CHANGES
 
 A Discord bot that elegantly displays the price of any cryptocurrency in its nickname
 
