@@ -1,0 +1,19 @@
+{
+  "token": "OTAyODg4NTU5MDA1MDQwNjkw.YXk-fw.kVGexdvLKspEdpau8aloZwAQ43E",
+  "prefix": "!",
+  "database": "database.db",
+  "logs_folder": "logs",
+  "log_filename": "%Y-%m-%dT%H-%M-%S.txt",
+  "embed_color": "#7289DA",
+  "description": "A simple ticker for any cryptocurrency",
+  "cryptocurrency_id": "smooth-love-potion",
+  "cryptocurrency_name": "SLP",
+  "fiat_id": "usd",
+  "fiat_name": "$",
+  "max_ppa": 20,
+  "max_cpa": 20,
+  "presence_precision": 3,
+  "stats_precision": 4,
+  "human_readable_stats": true,
+  "human_readable_precision": 3
+}
